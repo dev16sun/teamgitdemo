@@ -16,8 +16,6 @@ D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\MyCoreApp.MvcApplicationPartsAs
 D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\MyCoreApp.RazorAssemblyInfo.cache
 D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\MyCoreApp.RazorAssemblyInfo.cs
 D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\MyCoreApp.StaticWebAssets.Manifest.cache
-D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\MyCoreApp.StaticWebAssets.xml
-D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\MyCoreApp.styles.css
 D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\MyCoreApp.TagHelpers.input.cache
 D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\MyCoreApp.TagHelpers.output.cache
 D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\MyCoreApp.RazorCoreGenerate.cache
@@ -35,3 +33,9 @@ D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\MyCoreApp.dll
 D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\MyCoreApp.pdb
 D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\MyCoreApp.genruntimeconfig.cache
 D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\MyCoreApp.csproj.CopyComplete
+D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\MyCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\MyCoreApp.StaticWebAssets.Pack.cache
+D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MyCoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MyCoreApp.props
+D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MyCoreApp.props
+D:\AzureDevOps\MyCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MyCoreApp.props
