@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "frD0smRm1GClurIxYLnarmDYRcnTP/DimV3IHUhasfLuALWhd8uG2icNKY0ht2N+4ZN7tr/ofvjSSiTtmgvSsw==",
+  "dgSpecHash": "uYy7Bh23Nbcx3fmjDi7gZl/ooQ3b+4VvJLHxXhqpiwoinLUbjh1HTIhE+8T0Z91Vo3WKpsMbgtHZhCB0X7Perw==",
   "success": true,
   "projectFilePath": "D:\\AzureDevOps\\MyCoreApp\\MyCoreApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
   ],
   "logs": []
 }
