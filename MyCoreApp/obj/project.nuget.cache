@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "uYy7Bh23Nbcx3fmjDi7gZl/ooQ3b+4VvJLHxXhqpiwoinLUbjh1HTIhE+8T0Z91Vo3WKpsMbgtHZhCB0X7Perw==",
+  "dgSpecHash": "NC1LxO6M/+BodRISEwPRg+PfSfA9RgX0zZFP0rfBFHdFCAPU+35UeUYPqI+B9s9HYavutWf/uCxIj58wk3gVdQ==",
   "success": true,
   "projectFilePath": "D:\\AzureDevOps\\MyCoreApp\\MyCoreApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
   ],
   "logs": []
 }
